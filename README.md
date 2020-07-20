@@ -1,3 +1,4 @@
 # LB2
-python script used for the project \
-creation of charts
+These are the Python script used for the project \
+
+
